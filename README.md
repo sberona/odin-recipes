@@ -1,1 +1,3 @@
 # odin-recipes
+My very first web project!
+This is my very first project from "The Odin Project" and in this project I will be making a recipes website. It will be a basic recipes website (nothing to fancy for now). The website will consist of the main index page with links to the recipes. This is an HTML project, so this won't be the fanciest looking website but later on we can come back to it and clean it up with CSS. Once the project is completed, I will come back with a self-reflection about the entire project.
