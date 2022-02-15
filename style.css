@@ -1,0 +1,42 @@
+* {
+    font-family: "Arial", sans-serif;
+}
+
+.bake {
+    text-align: center;
+    background-color: rgb(59, 132, 201);
+}
+
+.cook {
+    background-color: rgb(215, 218, 90);
+}
+
+.brow {
+    background-color: rgb(114, 43, 43)
+}
+
+.dough {
+    background-color: beige;
+}
+
+.ing {
+    background-color: aqua;
+    color: white;
+}
+
+.desc {
+    background-color: rgb(133, 28, 175);
+}
+
+.dir {
+    background-color: rgb(16, 109, 104)
+}
+
+.nut2 {
+    text-align: center;
+}
+
+.nut {
+    background-color: rgb(9, 211, 9);
+    text-align: center;
+}
